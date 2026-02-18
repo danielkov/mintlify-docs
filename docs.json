@@ -1,0 +1,24 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Train Travel API",
+  "colors": { "primary": "#3B82F6" },
+  "navigation": {
+    "global": {
+      "anchors": [
+        {
+          "anchor": "API Reference",
+          "href": "/api-reference",
+          "icon": "square-terminal"
+        }
+      ]
+    },
+    "tabs": [
+      {
+        "tab": "API Reference",
+        "href": "/api-reference",
+        "openapi": "https://spec.speakeasy.com/speakeasy-self/daniel-test/train-travel-api-with-code-samples"
+      }
+    ]
+  }
+}
